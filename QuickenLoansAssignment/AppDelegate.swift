@@ -2,10 +2,7 @@
 //  AppDelegate.swift
 //  QuickenLoansAssignment
 //
-//  Created by nishanth golla on 10/12/17.
-//  Copyright © 2017 nishanth golla. All rights reserved.
-//
-
+// 
 import UIKit
 
 @UIApplicationMain
